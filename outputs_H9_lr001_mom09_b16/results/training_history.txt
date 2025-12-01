@@ -1,0 +1,69 @@
+EXPERIMENT: H9_lr001_mom09_b16
+==================================================
+
+Date: 2025-11-27 21:10:22
+
+HYPERPARAMETERS:
+   Learning Rate: 0.001
+   Momentum: 0.9
+   Batch Size: 16
+   LR Scheduler: Fixed
+   Latent Dim: 256
+
+RESULTS:
+   Epochs trained: 50
+   Best loss: 0.015590
+   Final loss: 0.015590
+   Training time: 1:03:12.538415
+
+LOSS PER EPOCH:
+   Epoch 1: Loss=0.082374, LR=0.001000
+   Epoch 2: Loss=0.046829, LR=0.001000
+   Epoch 3: Loss=0.040327, LR=0.001000
+   Epoch 4: Loss=0.036809, LR=0.001000
+   Epoch 5: Loss=0.033381, LR=0.001000
+   Epoch 6: Loss=0.030276, LR=0.001000
+   Epoch 7: Loss=0.028250, LR=0.001000
+   Epoch 8: Loss=0.027047, LR=0.001000
+   Epoch 9: Loss=0.026147, LR=0.001000
+   Epoch 10: Loss=0.025406, LR=0.001000
+   Epoch 11: Loss=0.024746, LR=0.001000
+   Epoch 12: Loss=0.024203, LR=0.001000
+   Epoch 13: Loss=0.023676, LR=0.001000
+   Epoch 14: Loss=0.023234, LR=0.001000
+   Epoch 15: Loss=0.022807, LR=0.001000
+   Epoch 16: Loss=0.022401, LR=0.001000
+   Epoch 17: Loss=0.021977, LR=0.001000
+   Epoch 18: Loss=0.021563, LR=0.001000
+   Epoch 19: Loss=0.021161, LR=0.001000
+   Epoch 20: Loss=0.020791, LR=0.001000
+   Epoch 21: Loss=0.020470, LR=0.001000
+   Epoch 22: Loss=0.020112, LR=0.001000
+   Epoch 23: Loss=0.019849, LR=0.001000
+   Epoch 24: Loss=0.019519, LR=0.001000
+   Epoch 25: Loss=0.019286, LR=0.001000
+   Epoch 26: Loss=0.019034, LR=0.001000
+   Epoch 27: Loss=0.018802, LR=0.001000
+   Epoch 28: Loss=0.018572, LR=0.001000
+   Epoch 29: Loss=0.018377, LR=0.001000
+   Epoch 30: Loss=0.018164, LR=0.001000
+   Epoch 31: Loss=0.017975, LR=0.001000
+   Epoch 32: Loss=0.017822, LR=0.001000
+   Epoch 33: Loss=0.017642, LR=0.001000
+   Epoch 34: Loss=0.017469, LR=0.001000
+   Epoch 35: Loss=0.017326, LR=0.001000
+   Epoch 36: Loss=0.017166, LR=0.001000
+   Epoch 37: Loss=0.017043, LR=0.001000
+   Epoch 38: Loss=0.016889, LR=0.001000
+   Epoch 39: Loss=0.016760, LR=0.001000
+   Epoch 40: Loss=0.016651, LR=0.001000
+   Epoch 41: Loss=0.016539, LR=0.001000
+   Epoch 42: Loss=0.016415, LR=0.001000
+   Epoch 43: Loss=0.016286, LR=0.001000
+   Epoch 44: Loss=0.016177, LR=0.001000
+   Epoch 45: Loss=0.016086, LR=0.001000
+   Epoch 46: Loss=0.015980, LR=0.001000
+   Epoch 47: Loss=0.015880, LR=0.001000
+   Epoch 48: Loss=0.015787, LR=0.001000
+   Epoch 49: Loss=0.015701, LR=0.001000
+   Epoch 50: Loss=0.015590, LR=0.001000

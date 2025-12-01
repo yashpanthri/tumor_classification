@@ -1,0 +1,14 @@
+BINARY EVALUATION REPORT (K=5 CLUSTERS)
+==================================================
+
+Accuracy:  74.08%
+Precision: 78.08%
+Recall:    88.58%
+F1 Score:  83.00%
+
+Cluster Mapping:
+   Cluster 0 (pituitary): Tumor
+   Cluster 1 (no_tumor): No_Tumor
+   Cluster 2 (pituitary): Tumor
+   Cluster 3 (meningioma): Tumor
+   Cluster 4 (glioma): Tumor

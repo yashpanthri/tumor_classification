@@ -1,0 +1,16 @@
+K-MEANS CLUSTERING REPORT (K=5)
+==================================================
+
+Number of clusters: 5
+Number of samples: 9436
+Feature dimensions: 256
+Silhouette Score: 0.0855
+Inertia: 1845845.50
+Iterations: 60
+
+Cluster Distribution:
+   Cluster 0: 2336 images (24.8%)
+   Cluster 1: 1621 images (17.2%)
+   Cluster 2: 1843 images (19.5%)
+   Cluster 3: 1126 images (11.9%)
+   Cluster 4: 2510 images (26.6%)

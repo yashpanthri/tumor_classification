@@ -1,0 +1,19 @@
+EVALUATION REPORT (K=5 CLUSTERS)
+==================================================
+
+Overall Accuracy: 49.60%
+
+Cluster to Class Mapping:
+   Cluster 0: pituitary
+   Cluster 1: no_tumor
+   Cluster 2: pituitary
+   Cluster 3: meningioma
+   Cluster 4: glioma
+
+Per-Class Accuracy:
+   glioma: 61.21%
+   meningioma: 13.04%
+   pituitary: 91.98%
+   no_tumor: 37.80%
+
+All 4 classes represented!
