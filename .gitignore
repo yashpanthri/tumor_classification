@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+__pycache__/
+.idea/
+
+# Large data folders (too big for GitHub)
+Train/
+Test/
+Validate/
+outputs_baseline/
+new_images/
+
+# None needed files
+*.pth
+*.npy
+*.npz
+*.docx
+*.xlsx
+
+# Model outputs (large files)
+outputs_H1_*/
+outputs_H2_*/
+outputs_H3_*/
+outputs_H4_*/
+outputs_H5_*/
+outputs_H6_*/
+outputs_H7_*/
+outputs_H8_*/
+outputs_H10_*/
+outputs_exp1a_*/
+outputs_exp1b_*/
+outputs_exp2a_*/
+outputs_exp2b_*/
+outputs_SVD99_*/
+outputs/
+tumor_classification/
+
+# Temporary files
+*.bak
+*.mpx
