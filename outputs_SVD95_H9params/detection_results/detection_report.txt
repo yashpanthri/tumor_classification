@@ -1,0 +1,28 @@
+======================================================================
+BINARY TUMOR DETECTION REPORT (SVD PREPROCESSED)
+======================================================================
+
+Model Path: C:\Users\mlshe\IS579\outputs_SVD95_H9params\models\autoencoder_best.pth
+SVD Energy Threshold: 95%
+SVD Method: cumsum(s) / sum(s)
+Images Analyzed: 2
+Tumors Detected: 1
+No Tumor: 1
+Pixel Spacing: 0.5 mm (assumed)
+
+----------------------------------------------------------------------
+DETAILED RESULTS
+----------------------------------------------------------------------
+
+File: 1 no.jpeg
+   SVD Rank: 148 of 630
+   Compression: 23.5% of components
+   Result: TUMOR
+   Confidence: 7.7%
+
+File: Y13.jpg
+   SVD Rank: 93 of 254
+   Compression: 36.6% of components
+   Result: NO TUMOR
+   Confidence: 5.3%
+
